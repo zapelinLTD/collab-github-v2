@@ -1,3 +1,4 @@
+bitch
 2016-02-09 18:13:20.634   Log opened. (Time zone: UTC+02:00)
 2016-02-09 18:13:20.634   Setup version: Inno Setup version 5.5.6 (a)
 2016-02-09 18:13:20.634   Original Setup EXE: C:\Users\guar\Downloads\HipChat_4.0.1619.exe
