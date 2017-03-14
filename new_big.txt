@@ -3,7 +3,7 @@
 2016-02-09 18:13:20.634   Original Setup EXE: C:\Users\guar\Downloads\HipChat_4.0.1619.exe
 2016-02-09 18:13:20.634   Setup command line: /SL5="$C50E8E,49437914,422400,C:\sdfsfUsers\guar\Downloads\HipChat_4.0.1619.exe" /SPAWNWND=$3908D6 /NOTIFYWND=$5F070E 
 2016-02-09 18:13:20.634   Windows version: 6.3.9600  (NT platform: Yes)
-2016-02-09 18:13:20.634   64-bit Windows: Yes
+2016-02-09 18:13:20.634  sss 64-bit Windows: Yes
 2016-02-09 18:13:20.634   Processor architecture: x64
 2016-02-09 18:13:20.634   User privileges: Administrative
 2016-02-09 18:13:20.641   64-bit install mode: No
